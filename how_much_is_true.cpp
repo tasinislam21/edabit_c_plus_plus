@@ -20,8 +20,8 @@ int main()
     vector<bool> example1 = { true, false, false, true, false };
     vector<bool> example2 = { false, false, false, false };
     vector<bool> example3 = { };
-    cout << countTrue(example1) << "\n";;
-    cout << countTrue(example2) << "\n";;
-    cout << countTrue(example3) << "\n";;
+    cout << countTrue(example1) << "\n";
+    cout << countTrue(example2) << "\n";
+    cout << countTrue(example3) << "\n";
 
 }
